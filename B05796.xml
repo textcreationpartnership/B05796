@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serious advice and directions to all, especially to young people, how they may hear and read the word of God, that it may be the savour [sic] of life and not of death unto them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05796</idno>
+            <idno type="STC">Wing S2600A</idno>
+            <idno type="STC">ESTC R183731</idno>
+            <idno type="EEBO-CITATION">53299304</idno>
+            <idno type="OCLC">ocm 53299304</idno>
+            <idno type="VID">180034</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180034)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2811:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Serious advice and directions to all, especially to young people, how they may hear and read the word of God, that it may be the savour [sic] of life and not of death unto them.</title>
+               </titleStmt>
+               <extent>[1], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: dark, stained with slight loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Youth --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180034:1"/>
+            <pb facs="tcp:180034:1" rendition="simple:additions"/>
+            <p>SERIOUS ADVICE AND DIRECTIONS To ALL, Eſpecially to YOUNG PEOPLE, HOW THEY MAY HEAR and READ THE WORD of GOD, That it may be the Savour of LIFE and not of DEATH to them.</p>
+            <q>
+               <bibl>4 Mark 24.</bibl>
+               <p>Take heed What ye Hear.</p>
+            </q>
+            <q>
+               <bibl>8 Luke 18.</bibl>
+               <p>Take heed How ye Hear.</p>
+            </q>
+            <p>EDINBURGH, Re-printed in the Year, 1689.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:180034:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:180034:2" rendition="simple:additions"/>
+            <head>THE INTRODUCTION.</head>
+            <p>AS the Holy Scriptures (which the A<g ref="char:EOLhyphen"/>poſtle tells us, <hi>are able to make us wiſe to Salvation,</hi> if duly priz'd and im<g ref="char:EOLhyphen"/>prov'd) are (next the giving of Chriſt to die for us) the greateſt Gift that ever God beſtowed upon a Nation or Terſon, and which advances them above all other Nations and People in the World, <hi>Pſalm 147.19, 20.</hi> ſo there is nothing will bring ſorer Judgments, Spiritual, Temporal and Eternal, than the Neglect or Miſ<g ref="char:EOLhyphen"/>improvement of theſe Oracles of God, it will not only level ſuch Perſons with Heathens, but with the vileſt of them another day; as our Saviour has fore<g ref="char:EOLhyphen"/>warned us, <hi>Matth. 11.24.</hi> It ſhall be more tolerable in the Day of Judgment for <hi>Sodom</hi> and <hi>Gomorrah,</hi> than for ſuch who do not duly receive and entertain the
+<pb n="2" facs="tcp:180034:3"/>Goſpel, for thoſe ends it was given of God; It is a wonderful thing to conſider, how ſcrupulous and fearful many People are of Receiving the Lord's Supper, leſt they ſhould Eat and Drink their own Damna<g ref="char:EOLhyphen"/>tion, and yet even theſe Perſons will make nothing of careleſs and unprofitable Hear<g ref="char:EOLhyphen"/>ing and Reading the Word of God, or ne<g ref="char:EOLhyphen"/>glecting and ſlighting the ſame, which will as certainly ruine them at laſt, as unwor<g ref="char:EOLhyphen"/>thy Receiving: And therefore theſe Di<g ref="char:EOLhyphen"/>rections are earneſtly recommended to all, eſpecially Young Perſons, that they may not be guilty of their own Eternal Ruine, and make that Word, which, in its own nature, is, <hi>the Savour of Life unto Life,</hi> to be unto them, <hi>the Savour of Death un<g ref="char:EOLhyphen"/>to Death.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:180034:3"/>
+            <head>SERIOUS Advice and Directions to All, Eſpecially to YOUNG PEOPLE.</head>
+            <head type="sub">In Pſalm 119.9. the Queſtion is asked, <hi>Wherewithal ſhall a Young Man cleanſe his Way?</hi> the Anſwer is, <hi>By ruling himſelf</hi> (or taking heed thereto) <hi>according to thy Word.</hi>
+            </head>
+            <p>IT is plain from hence, that Young Mens Ways or Courſes are corrupt and filthy, and the only Means of cleanſing them is Gods Word, by which they muſt rule and regulate their Ways, (that is) their Thoughts, Words, and Actions, and therefore becauſe the Word of God is Spiritual, and contradicts the head-ſtrong Luſts of young Perſons, they do not love to read or meditate on it, how few will ſeriouſly apply themſelves to the reading of a Chapter or two in a day, tho' they have time enough to read Stories, Romances, or other fooliſh Books and Papers, which are agreeable to their Luſts; So if they hear the Word Preached, which is the ordinary Means that God has appointed for their Conver<g ref="char:EOLhyphen"/>ſion, it is more out of Cuſtom than Love, and when they come home from hearing, they forget all they have received, by falling into vain and fooliſh Talking, and not allowing themſelves any time for Meditation, till at laſt they grow hardened in their Sins, and the Word of God will have no impreſſion upon them, and youthful Luſts lead them captive to their deſtruction.</p>
+            <p>
+               <pb n="4" facs="tcp:180034:4"/>
+Therefore as Young Perſons would not be guilty of their Souls eternal Ruine, they muſt take care, that they do not neglect hearing and reading the Word, or hear and read to no purpoſe, which is as bad or worſe; To this end I do earneſtly adviſe ſuch as can write, to keep a Paper Book, and write down the Heads of every Sermon, with the Text and Proofs, and ſo much of the reſt of the Sermon as they can well write, an Example whereof, to direct them, I have hereafter written down in this Pa<g ref="char:EOLhyphen"/>per; alſo Paterns or Directions for Prayer before and after Sermon.</p>
+            <div type="pre-sermon_prayer">
+               <head>A PRAYER before SERMON.</head>
+               <p>
+                  <q>MOſt glorious, God, through the Riches of thy Grace, thou haſt given me another opportunity to wait upon thee at thy Houſe, and thou haſt commanded me to take heed how I hear, I moſt humbly beſeech thee, to make my heart fit to receive the good Seed of thy Word: Lord<g ref="char:punc">▪</g> I deſire to lay my Soul open to this Sword of thy Spirit, beſeeching thee to make it to me quick and powerful, ſharper than any two-edged Sword, to kill all my Sins and Luſts, eſpecially my right-eye and right-hand Sins, which I pray thee diſcover to me, and make me willing freely to deliver up to thee, to be crucified and ſlain. Be with thy Servant, upon whoſe Mi<g ref="char:EOLhyphen"/>niſtry I am to attend; give him a door of utterance, that he may Preach thy Word faith fully and plainly, not with inti<g ref="char:EOLhyphen"/>cing words of men's Wiſdom, but in the demonſtration of the Spirit and of Power, and let thy good Spirit carry it from his Mouth to my Heart, that I may come to be convinced of the Sins of my Heart and Life, and that theſe Convictions may end in true godly Sorrow, that may work Repentance unto Salvation, never to be repented of, and all for the Me<g ref="char:EOLhyphen"/>rits of Chriſt Jeſus our Lord. <hi>Amen.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>The like</hi> Prayer <hi>may be uſed before reading of Chap<g ref="char:EOLhyphen"/>ters, with a little variation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:180034:4"/>
+               <head>The HEADS of a SERMON.</head>
+               <epigraph>
+                  <q>
+                     <bibl>1 P. 1.3.4.</bibl>
+                     <p>Bleſſed be the God and Father of our Lord Jeſus Chriſt, who, according to his abundant mercy hath begotten us again by the Reſurrection of Jeſus Chriſt from the dead, <hi>&amp;c.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <p>ONe of the great Benefits that come to us by the Reſurrection of Chriſt is the New Birth. <hi>Who hath begotten us again.</hi>
+               </p>
+               <p>Regeneration is the firſt Saving Work upon us, it was the firſt Leſſon Chriſt taught ſo Learned a man as <hi>Nicodemus<g ref="char:punc">▪</g>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Firſt.</hi> I ſhall explain what is meant by Regeneration, <hi>Secondly,</hi> &amp;c. <hi>Thirdly,</hi> &amp;c. Application.</p>
+               <p>It ſignifies a Moral Change, not of the Subſtance, but of the Qualities of the Soul, called in Scripture alſo Conver<g ref="char:EOLhyphen"/>ſion, Sanctification, <hi>&amp;c.</hi>
+               </p>
+               <p>It is that great Change wrought upon us by the Spirit of God, whereby God's Image, loſt by the fall, is again renewed upon us, and we are turned from a ſtate of Sin to a ſtate of Holineſs, <hi>Acts,</hi> 26.18. See <hi>Epheſ.</hi> 4, 21 I ſhall explain it more in ſix particulars.</p>
+               <p n="1">1 ſt, Begetting again, ſuppoſes a former Birth, and that we muſt be twice born; in our firſt Birth we were born in Sin, and Children of Wrath; the firſt Birth brought us into the World Sinners, the ſecond makes us Saints; our firſt Birth makes us Men, our Second Birth makes us Chriſtians.</p>
+               <p n="2">
+                  <hi>2ly.</hi> This new Birth is the Work of God alone, none can regenerate us but God, he that made us Creatures, can only make us new Creatures, <hi>Jam.</hi> 1.18. it is a work of as great power to make a Sinner a Saint. as to make him a Man, I know there are ſome civil Perſons, that as our Saviour ſaith, are not far from the Kingdom of God; but yet I ſay, there's no Man, by the greateſt improve<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:180034:5"/>of Learning, Nature, or Reaſon; can make himſelf a Saint no more than a Man can beget himſelf<g ref="char:punc">▪</g>
+               </p>
+               <p n="3">
+                  <hi>3ly.</hi> Regeneration is a work of free Grace and Mer<g ref="char:EOLhyphen"/>cy; of his own will begat he us by the word of Truth, as 2 <hi>Tim.</hi> 2.19. <hi>Tit.</hi> 3.5<g ref="char:punc">▪</g>
+               </p>
+               <p n="4">
+                  <hi>4ly.</hi> Tho' God alone doth regenerate us, yet he makes uſe of means, which are two; Firſt the Preaching of the Word. St. <hi>James</hi> ſaith, <hi>Jam.</hi> 1, 18. he begat us by the Word of Truth. And therefore we muſt attend the Preaching of the Word, It is not Peoples ſtaying at Home, or walking in the Fields, and ſaying God can ſave them if he will, will do them any good. The other means is Baptiſm, which is called the waſhing of Regeneration, <hi>Titus</hi> 3, 5.</p>
+               <p n="5">
+                  <hi>5ly.</hi> The Principal working on God's part, is the Pour<g ref="char:EOLhyphen"/>ing out of the Holy Ghoſt, to be the Soul or Principle of this new Life in us, thoſe Graces of the Spirit whereby the Soul is firſt healed, and then ſanctified, a partaking of the Divine Nature, as <hi>Rom.</hi> 8 11, Unregenerate perſons may have the Gifts, the Aſſiſtances and Motions of the Spirit, but not have the Spirit dwell in them as a Principle of new Life.</p>
+               <p n="6">
+                  <hi>6ly.</hi> When God hath thus regenerated us, there follows a great Change in the Soul, juſt like a new Life put into a dead Body, which is preſently followed with Breath<g ref="char:EOLhyphen"/>ing, Walking and Actions; ſo he that is new Born has a new Underſtanding, a new Judgment, a new Senſe of Things; he now ſees the Excellency of Chriſt, and the Beauty of Holineſs, the loathſom Nature of Sin; he has now new Loves, new Joys, a new end of this Life, and an inclination and purpoſe to ſerve God in every thing, and then a new Life follows a new Heart<g ref="char:punc">▪</g>
+               </p>
+               <p>It is called a new Birth, or being begotten again.</p>
+               <p n="1">1ſt Becauſe it is an inward vital Change, Life begins firſt in the Heart, as <hi>Ezek.</hi> 36.26. and Jer<g ref="char:punc">▪</g> 31.31.</p>
+               <p n="2">
+                  <pb n="7" facs="tcp:180034:5"/>
+                  <hi>2ly.</hi> Regeneration is an univerſal Change; when the Soul of Man is infuſed, it goes through every Member of the Body; ſo the Spirit of God ſanctifies the whole Man, and therefore he will not live in any known ſin.</p>
+               <p n="3">
+                  <hi>3ly.</hi> This new birth Implies a conſtant and prevailing Change; natural Actions are conſtant. Regeneration is the diſtinguiſhing Act of God's electing Love; had we died but one hour before we had been born again, we ſhould have been undon for ever.</p>
+               <div type="section">
+                  <head>APPLICATION.</head>
+                  <p>This ſhould ſtir you up to examine your ſelves; you that have not felt this great work upon your hearts, do you not beleive you have immortal Souls, that muſt be miſe<g ref="char:EOLhyphen"/>rable or happy for ever? do you believe there's no way to Life, but by the new Birth; what Pillow can you reſt upon in an unconverted State? me thinks that Text of our Saviour, <hi>John</hi> 3<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 3. Except a Man be born again he cannot ſee the Kingdom of God, ſhould follow you in all your Callings and Recreations: Ariſe therefore and repent of your Sins; make you new Hearts and new Spirits.</p>
+               </div>
+               <div type="section">
+                  <p>Moſt Perſons that have any readineſs in writing, may take thus much of a Sermon; they that cannot, let them at firſt take only the Heads of the Sermon, which begin with 1, 2, 3, 4, <hi>&amp;c.</hi> this may eaſily be done; and after<g ref="char:EOLhyphen"/>wards, when they grow more expert, they may enlarge farther. When you come home from Church, read what you have written, and ſeriouſly conſider it, and meditate upon it, and then turn your Meditation into ſome ſuch Prayer as this which follows.</p>
+               </div>
+            </div>
+            <div type="post-sermon_prayer">
+               <pb n="8" facs="tcp:180034:6"/>
+               <head>A PRAYER after Hearing the WORD.</head>
+               <p>
+                  <q>MOST gracious Lord, I, thy poor unworthy Creature, deſire in all humility, to bleſs thy Holy Name, that not<g ref="char:EOLhyphen"/>withſtanding my great unthankfulneſs and unprofitableneſs under the means of Grace, thou haſt given me one opportunity more to wait upon the in thy Houſe, and to partake of thy Holy Word; O let the ſame make a deep and a laſting im<g ref="char:EOLhyphen"/>preſſion on my Soul, and not be left to the vanity of my Spi<g ref="char:EOLhyphen"/>rit: I have been now taught the Nature and Neceſsity of the new birth that it is a through change of the Heart, wrought by the Holy Ghoſt, to turn us from ſin to God; that it is the work of him alone that made us, to new make us; and there's no hopes of Heaven, or eſcaping Hell, until this great Work be wrought in my Heart. Lord, I am a poor Ignorant ſinful Creature, unable to conceive this great Myſtery of Re<g ref="char:EOLhyphen"/>generation, and am ready in my heart to ſay with <hi>Nicodemus, How can theſe things be?</hi> I beſeech thee, let me know by Experience, What it is to be born again; to be made a new Creature. Oh give me thy Holy Spirit to work this Great Change in me; let Him Breake or melt my hard Heart into true Contrition and Godly Sorrow, for my Sins; and ſhew me the neceſſity of an intereſt by Faith In the Blood of Jeſus Chriſt, who is the Saviour of all Penitent Sinners<g ref="char:punc">▪</g> 
+                     <hi>Amen.</hi>
+                  </q>
+               </p>
+               <p>Or other ways you may turn the ſeveral Heads of your Sermon into a Prayer, and ſo you will have the whole Subſtance of the Sermon, and a Direction for your Prayer, which will be more eaſie and profitable; As for exam<g ref="char:EOLhyphen"/>ple, In the firſt Head of the Sermon it is there expreſſed, that the firſt Birth brought us into the World Sinners, the ſecond makes us Saints; the firſt Birth made us Men, the ſecond Chriſtians. When <hi>I</hi> read this I lift up my Heart to God in Prayer after ſome ſuch manner:</p>
+               <p>
+                  <pb n="9" facs="tcp:180034:6"/>
+                  <q>
+                     <hi>O</hi> Bleſſed Lord, am I born a miſerable Sinner, and do continue ſuch till I am born again? O let me give no reſt to my Soul till this Work be wrought in me. Oh let me not reſt in an Outward Profeſſion, when <hi>I</hi> have no true Godlineſs in my Heart.</q>
+               </p>
+               <p>So in the ſecond Head I read, that this new Birth is the Work of God alone, and the ſame Power that made us Creatures, muſt make us new Creatures: Then I lift up my Soul to God in this manner:</p>
+               <p>
+                  <q>
+                     <hi>O</hi> Lord, <hi>I</hi> beſeech thee, put forth that Mighty Power whereby thou madeſt me a Creature, to make me a new Creature. Lord, <hi>I</hi> can only wait upon the in the uſe of Means, it is the mighty power of thy Grace muſt make them effectual to the Convincing and Converting me: Carry on this Work in my Soul, againſt all the Oppoſitions of my wicked Heart, the World and the Devil, and give me Grace to improve every Motion of thy good Spirit, and never to quench the ſame.</q>
+               </p>
+               <p>Thus you may eaſily go over all the other Heads of the fore-mentioned Sermon, or of any other Sermon you write, or of any Chapter or Verſe you read in pri<g ref="char:EOLhyphen"/>vate.</p>
+            </div>
+            <div type="part">
+               <head>The Spiritual Advantages to ſuch as take this Courſe of Writting Sermons.</head>
+               <p>
+                  <hi>Firſt.</hi> IT will be a great Means to make you attend with more diligence upon the Word, and pre<g ref="char:EOLhyphen"/>vent all wandring Thoughts; this will certainly in<g ref="char:EOLhyphen"/>gage your Attention, and cauſe your mind to be fixed, that you may not be guilty of offering the Sacrifice of
+<pb n="10" facs="tcp:180034:7"/>Fools, to have your Body preſent, and your Heart run<g ref="char:EOLhyphen"/>ning after Vanity.</p>
+               <p>
+                  <hi>Secondly.</hi> This Courſe will keep your bodily Eyes from wandring, and looking upon Faces or fine Cloaths in the Church, which diſtractes the Mind,</p>
+               <p>
+                  <hi>Thirdly,</hi> This Writting and Praying will be an excel<g ref="char:EOLhyphen"/>lent means to furniſh your Soul with Divine Truths, and ſuch as will remain and abide with you, to direct you in your Life; a man that takes this Courſe, ſhall have benefit by a Sermon. and remember it perhaps many Years after, when a careleſs ſlothful Hearer ſhall forget all in a few Hours; that Sermon that we do Pray into our Hearts ſhall do us good, and none elſe. For want of this, how many Perſons are there that have been Hea<g ref="char:EOLhyphen"/>rers of good Sermons, it may be 10, 20, 30, or 40 Years, and yet after all, know no more of their Religion than a meer Heathen, or at leaſt it is but very general and un<g ref="char:EOLhyphen"/>certain, not any thing that has an influence upon their Hearts and Lives; and no wonder if ſuch as would not receive the Truth in the love of it, that they may be ſa<g ref="char:EOLhyphen"/>ved, in a day of temptation, ſhould be given over to be<g ref="char:EOLhyphen"/>lieve lies, that they may be damned.</p>
+               <p>
+                  <hi>Fourthly.</hi> By this means you will be able to reſiſt all Temptations to Sin and Errors, that you are always liable to; whether from within, or from without, you will ſay to your ſelves, I remember this or that Sin, or falſe Do<g ref="char:EOLhyphen"/>ctrine, was forbidden in ſuch a Sermon, and the Judgments of God denounced againſt it; and, as <hi>Joſeph,</hi> when he was tempted by his Miſtreſs, ſo you will ſay, <hi>How can</hi> I <hi>do this wickedneſs, and ſin againſt God?</hi> and this likewiſe will be a good means to incite and ſtir you up to all good Du<g ref="char:EOLhyphen"/>ties, that God requires of you; and hereby you may be very uſeful to others with you, by reading the Heads of your Sermon to them, and promote holy Conference, which is a Duty God Requires, and will reward: It is ſaid, <hi>They that feared the Lord, ſpake often one to another:</hi>
+                  <pb n="11" facs="tcp:180034:7"/>and by this Courſe a great deal of Precious time will be redeemed on Lords days, which many young Perſons do vainly ſquander away in idle and unprofitable Diſcourſe.</p>
+               <p>And foraſmuch as there are ſeveral Perſons that can Read, but not write, and if the Queſtion be asked, what muſt theſe do to profit by reading the Scriptures and hearing Sermons? I anſwer, (as to Reading) let ſuch or others, when they read a Chapter, diligently meditate up<g ref="char:EOLhyphen"/>on it, and turn the ſeveral Verſes into holy Ejaculations or Prayers; many of the <hi>Pſalms</hi> are already made Pray<g ref="char:EOLhyphen"/>ers to their hands, and they may uſe them in the ſame forme and words as they lye in the Bible; as for example, <hi>Pſal.</hi> 139.23.24. <hi>Search me, O God, and know my heart: try me, and know my thoughts. and ſee if there be any wick<g ref="char:EOLhyphen"/>ed way in me: and lead me in the way everlaſting.</hi> And o<g ref="char:EOLhyphen"/>ther Verſes, that are only affirmations of truths, they may eaſily turn into Prayers; As for example, when I read that paſſage, <hi>Mat.</hi> 1.21. where is ſaid, <hi>And ſhe ſhall bring forth a Son, and thou ſhall call his name Jeſus, for he ſhall ſave his people from their ſins,</hi> I lift up my Heart to God in ſome ſuch Prayer as this, <hi>O bleſſed Jeſus, it was thy great deſign and end of coming into the World to ſave Souls, and to that end to ſave ſinners from their ſins, which are the deſtroyers of Souls. O do thou ſave me from all my ſins, eſpecially ſuch and ſuch ſins as</hi> I <hi>am moſt inclined to.</hi>
+               </p>
+               <p>And then as to Hearing of Sermons, ſuch Perſons as cannot write, may take their Bibles and turne down the Text and the ſeveral Proofs and other Scriptures that are quoted for the Confirmation or Illuſtration of the do<g ref="char:EOLhyphen"/>ctrine that is inſiſted upon; and when they go home, they may ſeriouſly meditate on them in order one after another, and as they ſee occaſion, turn them into ſuen Ejaculations and Prayers as above; and this will alſo be a means to bring much of the Sermon to their memories which they have forgotten.</p>
+               <p>
+                  <pb n="12" facs="tcp:180034:8"/>
+I hope theſe Arguments are ſufficient Motives for ſuch Young Men or other Perſons that are deſirous to follow the beſt Ways and Means for the good of their Souls, to take up this Courſe.</p>
+               <p>
+                  <label>Objection.</label> 
+                  <hi>But it may be ſome young Perſons, that are careleſs of their own Souls, will object and ſay, there is too much trouble in this Courſe.</hi>
+               </p>
+               <p>
+                  <label>Anſw.</label> It is very plain, that the trouble is very little, and to ſuch as truly love their Souls, it is a pleaſure; if you cannot undergo ſuch a trouble, how can you forſake all things for Chriſt.</p>
+               <p>
+                  <label>Object.</label> 
+                  <hi>But ſome may ſay again, Do not moſt People content themſelves, without taking any ſuch courſe, and may not a man be a good Chriſtian without it?</hi>
+               </p>
+               <p>
+                  <label>Anſw.</label> If you will follow the Way that <hi>Moſt</hi> go in, then I have little hope to prevail with you in this or any other Matter that concerns your Souls, for the <hi>Moſt</hi> go the Broad Way that leads to Deſtruction; but I do not ſay, it is neceſſary for all People to take this Courſe, but I chiefly mean it for Youth, whoſe Hearts and Memories are deceitful and treacherous, and cannot keep a Sermon or the Heads of it with them<g ref="char:punc">▪</g> ſo as after to meditate on the ſame, and improve it by Prayer; I ſay therefore, though it be not neceſſary for all, yet it is neceſſary for ſuch, and very convenient and profitable to all others, that will ſet themſelves to it.</p>
+               <p>
+                  <label>Object.</label> 
+                  <hi>It may be ſome may ſay again, I am unskilful, I know not how to ſet about it.</hi>
+               </p>
+               <p>
+                  <label>Anſw.</label> Have but a Will, and in a little time you will have Skill. In ſhort, all Objections are vain and frivolous, and onely ſhew the Backwardneſs in you to thoſe things that may advance your Souls good, and that you have ſo much the more need of taking up this Courſe.</p>
+               <p>
+                  <pb n="13" facs="tcp:180034:8"/>
+If God ſhall incline your Hearts to undertake this Work, then take this Advice by way of Cau<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <hi>Firſt.</hi> Be very ſerious before you make a beginning, and pray earneſtly to God, that he will make this Courſe profitable to your Souls health.</p>
+               <p>
+                  <hi>Secondly,</hi> Having reſolved to ſet upon it, do not ſuf<g ref="char:EOLhyphen"/>fer your vain deceitful Hearts, the World or the Devil, to make you give over again, for you will find oppoſi<g ref="char:EOLhyphen"/>tion from all or ſome of theſe, but ſtill hold on, and re<g ref="char:EOLhyphen"/>member you have, upon good Reaſons, found it very neceſſary for you, and therefore you will not give it over, till you have, by the Grace of God, obtained be<g ref="char:EOLhyphen"/>nefit by it.</p>
+               <p>
+                  <hi>Thirdly,</hi> Have a care you do not reſt in a Formal Uſe of this Courſe, but remember, though you ſhould follow ſuch a Courſe never ſo long, yet if you find no Spiritual Benefit, nor that you have been brought by this Means from a State of Sin and Folly, to a State of Grace and Holineſs, all you have done, will do you no good; re<g ref="char:EOLhyphen"/>member this is not to be done for it ſelf, but for another end and purpoſe, namely, that your Soul may be renew<g ref="char:EOLhyphen"/>ed and changed, that you may be Born again, and ſee the Kingdom of God.</p>
+               <p>Laſtly, and eſpecially, I do adviſe all Perſons, as they ever hope for any Saving-benefit of Hearing or Reading the Word, to Pray diligently and conſtantly for a re<g ref="char:EOLhyphen"/>newed and ſanctified Heart, without which, though they ſhould arrive to ſome Notional Knowledge in the Head, it would do them little good, nor will they keep it long. The Word of God is holy, and will not re<g ref="char:EOLhyphen"/>main or abide long any where, but in a holy Heart. And therefore <hi>Solomon</hi> adviſes, <hi>Prov.</hi> 3.1. <hi>(My Son, for<g ref="char:EOLhyphen"/>get not my Law, but let thine Heart keep my Command<g ref="char:EOLhyphen"/>ments.)</hi>
+                  <pb n="14" facs="tcp:180034:9"/>As if he ſhould have ſaid, You will quickly for<g ref="char:EOLhyphen"/>get all, if you do not lay it up in your Heart. It is a good Heart that makes a good Memory.</p>
+               <p>Now I have done; and unleſs you can give me better Reaſons for the Neglect of this Way, than I have given you for the Obſervation of it, I do hereby, with the great<g ref="char:EOLhyphen"/>eſt earneſtneſs, out of a true love to your Souls, and from ſome good ſelf-experience, beſeech and intreat you, that you would without delay reſolve, in the fear of God, to make a ſerious and ſober Tryal, and then I am ſure you will have great cauſe to thank God for this Counſel. And as a farther Motive, remember, that God Almighty take care to write down in the Book of his Omniſcience, all the Sermons you ever heard, and Chapters you have read and how you have remembred and improved them to his Glory, and the good of your Souls. And what a ſad Ac<g ref="char:EOLhyphen"/>count will every careleſs Hearer and Reader have to make in the great Day of Judgment, when God ſhall ſay, Come<g ref="char:punc">▪</g> Sinner, I gave thee ſo many Years to live upon Earth I afforded thee all the means of Grace, and eſpecially this of Reading and Hearing my Word preached; thou haſt heard ſo many hundred Sermons, wherein thou haſt been acquainted with the Neceſſity of a New Heart, a New Life, now what Improvements and Earnings haſt thou made of all theſe precious Talents? Believe this for a certain Truth, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Sermons you will not now remember to your Salvation, you ſhall then remember to your Con<g ref="char:EOLhyphen"/>demnation, when your remembrance will do you no good.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180034:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
